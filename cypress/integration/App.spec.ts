@@ -1,5 +1,5 @@
 describe('App E2E', () => {
-  it('should see 2 popovers', () => {
+  it('should see popover', () => {
     cy.visit('/')
 
     cy.get('[data-test-id="test-button-left-click"]').should('have.text', 'Click me')

@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import PopOver from './components/popOver/PopOver'
 import img1 from './images/mini_view.png'
 
